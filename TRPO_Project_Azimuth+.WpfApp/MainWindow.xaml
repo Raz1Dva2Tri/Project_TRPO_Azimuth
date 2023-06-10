@@ -1,0 +1,68 @@
+﻿<Window x:Class="TRPO_Project_Azimuth_.WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TRPO_Project_Azimuth_.WpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <Grid DockPanel.Dock="Top">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <GroupBox Header="Ввод текстовые поля: Дирекционный угол, Поправка направления" Grid.Row="0">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Margin="5">
+                        <TextBlock Text="Дирекционный угол:"/>
+                        <TextBox Width="100" Name="DirectionalAngleTextBox"/>
+                    </StackPanel>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="Поправка направления:"/>
+                        <TextBox Width="100" Name="DirectionCorrectionTextBox"/>
+                    </StackPanel>
+                    <Button Margin="5" Content="Применить" Name="ApplyButton1" Click="ApplyButton1_Click"/>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Ввод текстовые поля: Дирекционный угол, магнитное склонение, среднее сближение меридиан" Grid.Row="1">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Margin="5">
+                        <TextBlock Text="Дирекционный угол:"/>
+                        <TextBox Width="100" Name="DirectionalAngleTextBox2"/>
+                    </StackPanel>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="Магнитное склонение:"/>
+                        <TextBox Width="100" Name="MagneticDeclinationTextBox"/>
+                    </StackPanel>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="Среднее сближение меридиан:"/>
+                        <TextBox Width="100" Name="AverageMeridianConvergenceTextBox"/>
+                    </StackPanel>
+                    <Button Margin="5" Content="Применить" Name="ApplyButton2" Click="ApplyButton2_Click"/>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Ввод X, Y, Дистанция" Grid.Row="2">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel Margin="5">
+                        <TextBlock Text="X:"/>
+                        <TextBox Width="100" Name="XCoordinateTextBox"/>
+                    </StackPanel>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="Y:"/>
+                        <TextBox Width="100" Name="YCoordinateTextBox"/>
+                    </StackPanel>
+                    <StackPanel Margin="5">
+                        <TextBlock Text="Дистанция:"/>
+                        <TextBox Width="100" Name="DistanceTextBox"/>
+                    </StackPanel>
+                    <Button Margin="5" Content="Прямая геодезическая задача" Name="ApplyButton3" Click="ApplyButton3_Click"/>
+                </StackPanel>
+            </GroupBox>
+        </Grid>
+
+        <DataGrid Name="SampleDataGrid" DockPanel.Dock="Bottom" MinHeight="200"/>
+    </DockPanel>
+
+</Window>

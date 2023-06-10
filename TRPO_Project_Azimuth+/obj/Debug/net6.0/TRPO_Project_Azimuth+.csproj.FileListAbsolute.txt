@@ -1,0 +1,12 @@
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\bin\Debug\net6.0\TRPO_Project_Azimuth+.deps.json
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\bin\Debug\net6.0\TRPO_Project_Azimuth+.dll
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\bin\Debug\net6.0\TRPO_Project_Azimuth+.pdb
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\TRPO_Project_Azimuth+.csproj.AssemblyReference.cache
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\TRPO_Project_Azimuth+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\TRPO_Project_Azimuth+.AssemblyInfoInputs.cache
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\TRPO_Project_Azimuth+.AssemblyInfo.cs
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\TRPO_Project_Azimuth+.csproj.CoreCompileInputs.cache
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\TRPO_Project_Azimuth+.dll
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\refint\TRPO_Project_Azimuth+.dll
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\TRPO_Project_Azimuth+.pdb
+C:\Users\AAA\Source\Repos\TRPO_Project_Azimuth+\TRPO_Project_Azimuth+\obj\Debug\net6.0\ref\TRPO_Project_Azimuth+.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TRPO_Project_Azimuth+/1.0.0": {
+        "runtime": {
+          "TRPO_Project_Azimuth+.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRPO_Project_Azimuth+/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
