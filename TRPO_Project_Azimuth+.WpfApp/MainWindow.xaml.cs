@@ -31,6 +31,7 @@ namespace TRPO_Project_Azimuth_.WpfApp
             string ugol = DirectionalAngleTextBox.Text;
             string pn = DirectionCorrectionTextBox.Text;
             listAzimths.Add(new(double.Parse(ugol), double.Parse(pn)));
+            SampleDataGrid.ItemsSource = null;
             SampleDataGrid.ItemsSource = listAzimths;
 
 
@@ -43,6 +44,7 @@ namespace TRPO_Project_Azimuth_.WpfApp
             string pn1 = AverageMeridianConvergenceTextBox.Text;
 
             listAzimths.Add(new(double.Parse(ugol), double.Parse(pn), double.Parse(pn1)));
+            SampleDataGrid.ItemsSource = null;
             SampleDataGrid.ItemsSource = listAzimths;
         }
 

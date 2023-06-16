@@ -71,6 +71,7 @@
         public Azimuth(double ugl, double ssm, double magSkl)
         {
             Ugl = ugl;
+            SSM = ssm;
             PN = ssm + magSkl;
             
         }
