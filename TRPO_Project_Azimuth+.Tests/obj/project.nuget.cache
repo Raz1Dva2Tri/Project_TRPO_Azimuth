@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/PpuZ4CfH68ATEX1cU2SaoteikZ0qDxq4ldFXX+tJhGBmD986FR0S6yG3RGu/Oxk/aLzPJvjF4SOQkJvugvjww==",
+  "dgSpecHash": "j125qUZRNke7IHjEggbcs/j/zj7IXgDwLHKx41SNogQALd7k+MAnY4POgrCMtHKv0GeQKQzDg3xIar72Aj0Ocw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AAA\\Source\\Repos\\TRPO_Project_Azimuth+\\TRPO_Project_Azimuth+.Tests\\TRPO_Project_Azimuth+.Tests.csproj",
+  "projectFilePath": "E:\\D\\Documents\\GitHub\\Project_TRPO_Azimuth\\TRPO_Project_Azimuth+.Tests\\TRPO_Project_Azimuth+.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AAA\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\AAA\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AAA\\Source\\Repos\\TRPO_Project_Azimuth+\\TRPO_Project_Azimuth+\\TRPO_Project_Azimuth+.csproj",
+      "projectUniqueName": "E:\\D\\Documents\\GitHub\\Project_TRPO_Azimuth\\TRPO_Project_Azimuth+\\TRPO_Project_Azimuth+.csproj",
       "projectName": "TRPO_Project_Azimuth+",
-      "projectPath": "C:\\Users\\AAA\\Source\\Repos\\TRPO_Project_Azimuth+\\TRPO_Project_Azimuth+\\TRPO_Project_Azimuth+.csproj",
+      "projectPath": "E:\\D\\Documents\\GitHub\\Project_TRPO_Azimuth\\TRPO_Project_Azimuth+\\TRPO_Project_Azimuth+.csproj",
       "packagesPath": "C:\\Users\\AAA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AAA\\Source\\Repos\\TRPO_Project_Azimuth+\\TRPO_Project_Azimuth+\\obj\\",
+      "outputPath": "E:\\D\\Documents\\GitHub\\Project_TRPO_Azimuth\\TRPO_Project_Azimuth+\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
